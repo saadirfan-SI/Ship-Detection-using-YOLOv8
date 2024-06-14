@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Dissertation/Experiments/Dataset/ships-aerial-images/train
+val: /content/drive/MyDrive/Dissertation/Experiments/Dataset/ships-aerial-images/valid
+test: /content/drive/MyDrive/Dissertation/Experiments/Dataset/ships-aerial-images/test
+
+nc: 1
+names: ['ship']
